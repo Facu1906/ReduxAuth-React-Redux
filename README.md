@@ -2,7 +2,7 @@
 
 ## ReduxAuth-React-Redux
 
-### URL: https://phenomenal-gelato-7a8953.netlify.app/
+### URL: https://tranquil-selkie-f81c3b.netlify.app/
 
 #### In this project I worked with: 
 
