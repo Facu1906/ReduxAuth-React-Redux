@@ -1,6 +1,6 @@
 # React
 
-## Redux-Auth-React-Redux
+## ReduxAuth-React-Redux
 
 ### URL: https://phenomenal-gelato-7a8953.netlify.app/
 
